@@ -29,7 +29,6 @@
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3",
-    "minimatch": "^3.0.4"
+    "gh-pages": "^3.2.3"
   }
 }
